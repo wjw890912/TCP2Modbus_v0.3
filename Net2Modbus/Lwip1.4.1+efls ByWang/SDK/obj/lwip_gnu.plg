@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\mister-wang\Desktop\github\Net2Modbus\Lwip1.4.1+efls ByWang\SDK\lwip_gnu.uvproj
+Project File Date:  09/19/2016
+
+<h2>Output:</h2>
+Build target 'lwip2modbus'
+compiling netconf.c...
+..\myself\src\netconf.c(189): warning:  #223-D: function "tcp_tmr" declared implicitly
+..\myself\src\netconf.c:       tcp_tmr();
+..\myself\src\netconf.c:       ^
+..\myself\src\netconf.c(53): warning:  #177-D: variable "IPaddress" was declared but never referenced
+..\myself\src\netconf.c:   static uint32_t IPaddress = 0;
+..\myself\src\netconf.c:                   ^
+..\myself\src\netconf.c: ..\myself\src\netconf.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=54672 RO-data=756 RW-data=1468 ZI-data=49740  
+FromELF: creating hex file...
+".\obj\lwip_gnu.axf" - 0 Error(s), 2 Warning(s).
+Build target 'lwip2modbus'
+linking...
+Program Size: Code=54672 RO-data=756 RW-data=1468 ZI-data=49740  
+FromELF: creating hex file...
+".\obj\lwip_gnu.axf" - 0 Error(s), 0 Warning(s).
+Build target 'lwip2modbus'
+linking...
+Program Size: Code=54672 RO-data=756 RW-data=1468 ZI-data=49740  
+FromELF: creating hex file...
+".\obj\lwip_gnu.axf" - 0 Error(s), 0 Warning(s).
+Build target 'lwip2modbus'
+linking...
+Program Size: Code=54672 RO-data=756 RW-data=1468 ZI-data=49740  
+FromELF: creating hex file...
+".\obj\lwip_gnu.axf" - 0 Error(s), 0 Warning(s).
+Build target 'lwip2modbus'
+linking...
+Program Size: Code=54672 RO-data=756 RW-data=1468 ZI-data=49740  
+FromELF: creating hex file...
+".\obj\lwip_gnu.axf" - 0 Error(s), 0 Warning(s).
+Build target 'lwip2modbus'
+linking...
+Program Size: Code=54672 RO-data=756 RW-data=1468 ZI-data=49740  
+FromELF: creating hex file...
+".\obj\lwip_gnu.axf" - 0 Error(s), 0 Warning(s).
